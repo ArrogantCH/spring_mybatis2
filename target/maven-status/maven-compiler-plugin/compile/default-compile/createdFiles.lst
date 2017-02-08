@@ -1,0 +1,8 @@
+com\boom\spring_mybatis2\mybatis\MybatisConfig.class
+com\boom\spring_mybatis2\mybatis\MybatisMapperScannerConfig.class
+com\boom\spring_mybatis2\repository\AnimalRepository.class
+com\boom\spring_mybatis2\mapper\AnimalMapper.class
+com\boom\spring_mybatis2\service\AnimalService.class
+com\boom\spring_mybatis2\entity\Animal.class
+com\boom\spring_mybatis2\web\AnimalController.class
+com\boom\spring_mybatis2\App.class
